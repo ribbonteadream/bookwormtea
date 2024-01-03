@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bookwormtea
+- 👋 Hi, I’m @ribbonteadream
 - 👀 I’m interested in game development, music making, among other things.
-- 🌱 I’m currently learning GDScript and godot
+- 🌱 I’m currently learning GDScript and Godot
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me... on mastodon! [@bookwormtea@mastodon.social
 ](https://mastodon.social/@bookwormtea)
